@@ -2,8 +2,20 @@
     text-align: left !important;
 }
 
-#flutuante{
+#flutuante {
     position: fixed;
     right: 0;
     top: 90%;
+}
+
+#box {
+    position: relative;
+    width: 60%;
+    background: #ddd;
+    border-radius: 4px;
+    padding: 2em 1.5em;
+    color: rgba(0, 0, 0, .8);
+    text-shadow: 0 1px 0 #fff;
+    line-height: 1.5;
+    margin: 60px auto;
 }
