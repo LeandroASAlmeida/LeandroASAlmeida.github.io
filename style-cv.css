@@ -34,7 +34,7 @@ body {
 
 .edit .edit_esquerda {
     width: 280px;
-    background: #4d210d;
+    background: #022dbd
 }
 
 .edit .edit_esquerda .edit_profile {
@@ -60,12 +60,12 @@ body {
 }
 
 .edit .edit_esquerda .regular {
-    color: #daae97;
+    color: #356acc;
 }
 
 .edit .edit_item {
     padding: 25px 0;
-    border-bottom: 2px solid #daae97;
+    border-bottom: 2px solid #356acc;
 }
 
 .edit .edit_esquerda .edit_item:last-child,
@@ -154,8 +154,7 @@ body {
 }
 
 .edit .edit_direita .bold {
-    color: #5c2e13;
-    ;
+    color: #022dbd;
 }
 
 .edit .edit_direita .edit_trab ul,
@@ -191,8 +190,7 @@ body {
     width: 6px;
     height: 6px;
     border-radius: 50%;
-    border: 2px solid #5c2e13;
-    ;
+    border: 2px soli#022dbd;
 }
 
 .edit .edit_direita .edit_trab ul li:after,
@@ -203,8 +201,7 @@ body {
     left: -21px;
     width: 2px;
     height: 115px;
-    background: #5c2e13;
-    ;
+    background: #022dbd;
 }
 
 .edit .edit_direita .edit_hobby ul {
@@ -215,11 +212,11 @@ body {
 .edit .edit_direita .edit_hobby ul li {
     width: 80px;
     height: 80px;
-    border: 2px solid #5c2e13;
+    border: 2px solid #022dbd;
     ;
     border-radius: 50%;
     position: relative;
-    color: #5c2e13;
+    color: #022dbd;
     ;
 }
 
@@ -234,7 +231,7 @@ body {
     right: -52px;
     width: 50px;
     height: 2px;
-    background: #5c2e13;
+    background: #022dbd;
     ;
 }
 
